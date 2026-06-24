@@ -125,23 +125,28 @@ This project helped in understanding:
 
 ### Caesar Cipher
 
-![Caesar Cipher](screenshots/caesar-output.png)
+![Caesar Cipher](screenshots/caesar-output.png)<img width="245" height="110" alt="CC" src="https://github.com/user-attachments/assets/b66a004c-c86c-42be-95d3-58fbb3d06761" />
+
 
 ### Vigenère Cipher
 
-![Vigenere Cipher](screenshots/vigenere-output.png)
+![Vigenere Cipher](screenshots/vigenere-output.png)<img width="255" height="102" alt="VC" src="https://github.com/user-attachments/assets/66fef26c-67f6-40da-8ae3-f36e46e8314e" />
+
 
 ### RSA Algorithm
 
-![RSA](screenshots/rsa-output.png)
+![RSA](screenshots/rsa-output.png)<img width="236" height="90" alt="rsa" src="https://github.com/user-attachments/assets/b85a772e-443f-47e6-be4a-a6093b3c3ee4" />
+
 
 ### Diffie-Hellman Key Exchange
 
-![Diffie-Hellman](screenshots/diffie-hellman-output.png)
+![Diffie-Hellman](screenshots/diffie-hellman-output.png)<img width="267" height="132" alt="DH" src="https://github.com/user-attachments/assets/02cbeddd-9886-4afc-951c-ee52f05fcc64" />
+
 
 ### Blum Blum Shub Generator
 
-![BBS](screenshots/bbs-output.png)
+![BBS](screenshots/bbs-output.png)<img width="322" height="113" alt="bbs" src="https://github.com/user-attachments/assets/fe4c49b6-d754-4b0a-9c4a-977e155268fb" />
+
 
 ---
 
