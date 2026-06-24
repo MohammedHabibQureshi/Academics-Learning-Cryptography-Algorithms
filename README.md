@@ -125,7 +125,7 @@ This project helped in understanding:
 
 ### Caesar Cipher
 
-![Caesar Cipher](screenshots/)<img width="245" height="110" alt="CC" src="https://github.com/user-attachments/assets/b66a004c-c86c-42be-95d3-58fbb3d06761" />
+![Caesar Cipher]<img width="245" height="110" alt="CC" src="https://github.com/user-attachments/assets/b66a004c-c86c-42be-95d3-58fbb3d06761" />
 
 
 ### Vigenère Cipher
