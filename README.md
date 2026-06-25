@@ -24,32 +24,60 @@ The primary objective is to strengthen the understanding of cryptographic concep
 
 ## Algorithms Implemented
 
+---
+
 ### Classical Cryptography
 
-| Algorithm                     | Type                        |
-| ----------------------------- | --------------------------- |
-| Caesar Cipher                 | Substitution Cipher         |
-| Affine Cipher                 | Monoalphabetic Substitution |
-| Columnar Transposition Cipher | Transposition Cipher        |
-| Hill Cipher                   | Polygraphic Cipher          |
-| One-Time Pad                  | Perfect Secrecy Cipher      |
-| Playfair Cipher               | Digraph Substitution Cipher |
-| Rail Fence Cipher             | Transposition Cipher        |
-| Vigenère Cipher               | Polyalphabetic Cipher       |
+| Algorithm                     | Type                   |
+| ----------------------------- | ---------------------- |
+| Caesar Cipher                 | Substitution Cipher    |
+| Affine Cipher                 | Monoalphabetic Cipher  |
+| Columnar Transposition Cipher | Transposition Cipher   |
+| Hill Cipher                   | Polygraphic Cipher     |
+| One-Time Pad                  | Perfect Secrecy Cipher |
+| Playfair Cipher               | Digraph Cipher         |
+| Rail Fence Cipher             | Transposition Cipher   |
+| Vigenère Cipher               | Polyalphabetic Cipher  |
 
 ---
 
 ### Modern Cryptography
 
-| Algorithm                     | Category                |
-| ----------------------------- | ----------------------- |
-| AES Key Generation            | Symmetric Cryptography  |
-| Diffie-Hellman Key Exchange   | Key Exchange Protocol   |
-| ElGamal Cryptosystem          | Public Key Cryptography |
-| RC4 Encryption                | Stream Cipher           |
-| RSA Algorithm                 | Public Key Cryptography |
-| Simplified DES Encryption     | Block Cipher            |
-| Simplified DES Key Generation | Key Scheduling          |
+| Algorithm                   | Category                |
+| --------------------------- | ----------------------- |
+| AES Key Generation          | Symmetric Cryptography  |
+| Diffie-Hellman Key Exchange | Key Exchange            |
+| ElGamal Cryptosystem        | Public Key Cryptography |
+| RC4 Encryption              | Stream Cipher           |
+| RSA Algorithm               | Public Key Cryptography |
+| SDES Encryption             | Block Cipher            |
+| SDES Key Generation         | Key Scheduling          |
+
+---
+
+### Hash Functions
+
+| Algorithm      | Category                    |
+| -------------- | --------------------------- |
+| MD5            | Cryptographic Hash Function |
+| SHA-512        | Secure Hash Function        |
+| Hash Generator | Hash Genaration             |
+
+---
+
+### Digital Signatures
+
+| Algorithm         | Category                   |
+| ----------------- | -------------------------- |
+| Digital Signature | Authentication & Integrity |
+
+---
+
+### Data Integrity
+
+| Algorithm   | Category                    |
+| ----------- | --------------------------- |
+| Merkle Tree | Data Integrity Verification |
 
 ---
 
@@ -59,6 +87,7 @@ The primary objective is to strengthen the understanding of cryptographic concep
 | ----------------------------------- | ----------------------------- |
 | Blum Blum Shub (BBS)                | Cryptographically Secure PRNG |
 | Linear Congruential Generator (LCG) | Pseudorandom Number Generator |
+
 
 ---
 
